@@ -1,7 +1,7 @@
-
-/METR-LA
-/2206.09113v2.pdf
-/dataset.py
-/read.py
-/PEMS-BAY
-/.gitignore
+.ipynb_checkpoints/
+.jupyter/
+2206.09113v2.pdf
+METR-LA/
+PEMS-BAY/
+dataset.py
+read.py
